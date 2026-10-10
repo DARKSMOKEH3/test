@@ -1,12 +1,7 @@
 #!/bin/bash
 set -e
 
-if [ -z "$ROOT_PASSWORD" ]; then
-    echo "ROOT_PASSWORD is not set"
-    exit 1
-fi
-
-echo "root:$ROOT_PASSWORD" | chpasswd
+echo "root:tEhQ8p93ceTynl8P" | chpasswd
 
 mkdir -p /var/run/sshd
 
