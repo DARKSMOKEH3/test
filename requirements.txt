@@ -1,3 +1,2 @@
---extra-index-url https://dev-docs.aiogram.dev/simple
---pre aiogram
+aiogram @ https://github.com/aiogram/aiogram/archive/refs/heads/dev-3.x.zip
 telethon==1.36.0
