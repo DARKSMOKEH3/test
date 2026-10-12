@@ -28,7 +28,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from translations import LANG_NAMES, TRANSLATIONS, t, set_lang_resolver
 
 
-BOT_TOKEN = "8648481533:AAG1P2X78iigsy3wS8G-oNmTknbggB1ljjw"
+BOT_TOKEN = "8648481533:AAFOQ9-Uy3GR52RvCfBQ_VqdasXXdup85MY"
 ADMIN_ID = 7316971152
 BAN_PRICE = 500000
 
